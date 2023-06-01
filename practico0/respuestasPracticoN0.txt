@@ -1,0 +1,10 @@
+Respuestas Práctico N0
+1.a - Respuesta = 8
+1.b - Respuesta = 204
+2.a - Respuesta = 15
+2.b - Respuesta = 66.25
+3.a - Respuesta = 10
+3.b - Respuesta = 23.88888888888889
+4.a - Respuesta = 7
+4.b - Respuesta = -4.333333333333333
+4.c - Respuesta = 0.2666666666666666
